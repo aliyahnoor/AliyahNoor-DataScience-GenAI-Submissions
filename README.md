@@ -1,6 +1,6 @@
 This repository contains my  work for the **Data Science & Generative AI** module.  It documents my practical experience with data preprocessing, exploratory data analysis, and machine learning models, which I draw upon in **Part #1**.
 
-The notebooks demonstrate my hands-on engagement with key data science techniques discussed in lectures and seminars, including regression models, decision trees, and data transformation workflows. These materials are used as evidence to support the technical analysis, industry application, and personal reflection in my assignment.
+The notebooks demonstrate my engagement with key data science techniques discussed in lectures and seminars, including regression models, decision trees, and data transformation workflows. These materials are used as evidence to support the technical analysis, industry application, and personal reflection in my assignment.
 
 
 Table of Contents 
